@@ -2,6 +2,6 @@ Hola, aca Jere modifico el example.txt a las 20:55
 
 aca mauri agrego cambios
 
-= Wanda 
+= Wanda 20:57
 
 valentin cambio la hora
