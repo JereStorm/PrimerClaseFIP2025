@@ -1,4 +1,4 @@
-Hola, acabo de crear el example.txt
+Hola, aca Jere modifico el example.txt a las 20:55
 
 aca mauri agrego cambios
 
